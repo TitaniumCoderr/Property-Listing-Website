@@ -1,6 +1,3 @@
-# info3180-lab7-vuejs-starter
-
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
